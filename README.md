@@ -4,6 +4,8 @@
 
 InceptionResNetV2 transfer learning model gave a better prediction compared to other models that I used.
 
+Dataset is available in the Images folder and train.csv file has the labels to train the model. Please make changes in the notebook for train and test files path.
+
 ## My prediction got a score of 82.65 on the test dataset and I finished the challenge at 131 rank out of 5000+ participants (top 2%)
 
 ![Screenshot (185)](https://user-images.githubusercontent.com/13919456/86553610-3d320f80-bf19-11ea-8364-b7c9da1cd689.png)
