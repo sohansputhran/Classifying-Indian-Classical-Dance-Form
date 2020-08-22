@@ -1,8 +1,8 @@
 # Hackerearth Deep Learning Challenge: Identify the Dance Form
 
-## This was my submission to the Challenge on Hackerearth in which I had to classify the indian classical dance form into 8 different categories using images.
+## This was my submission to the Challenge on Hackerearth in which I had to classify the Indian classical dance images into 8 different categories of classical dance form.
 
-I will upload the data on kaggle soon.
+InceptionResNetV2 transfer learning model gave a better prediction compared to other models that I used.
 
 ## My prediction got a score of 82.65 on the test dataset and I finished the challenge at 131 rank out of 5000+ participants (top 2%)
 
